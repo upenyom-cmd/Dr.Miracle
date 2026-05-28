@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Guide",
+  "description": "Interactive medical handbook and evidence-based treatment guide, featuring an AI symptom checker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
